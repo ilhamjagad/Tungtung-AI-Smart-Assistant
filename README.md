@@ -108,12 +108,11 @@ Beberapa perintah kontrol yang didukung:
 
 ## 👤 Tentang Pengembang
 Proyek ini dibuat dan dikembangkan oleh:
-* **Muhammad Ilham Jagad** (Jagadtech)
+* **Muhammad Ilham Jagad** (Nodalixx)
 * **Status**: Mahasiswa Teknik Informatika, UIN Syarif Hidayatullah Jakarta
 * **Domisili**: Tangerang, Banten
-* **Hobi & Minat**: Olahraga, Gaming, Musik, Travelling, Teknologi, dan FC Barcelona (Visca el Barça! 🔵🔴)
 
 ---
 <div align="center">
-  <sub>Developed with ❤️ by Jagadtech.</sub>
+  <sub>Developed by Nodalixx.</sub>
 </div>
